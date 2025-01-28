@@ -1,0 +1,1 @@
+# modx-2.7x-plugin
