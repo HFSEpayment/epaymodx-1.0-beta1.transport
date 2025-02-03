@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd84bb73-ec4a-4819-b119-379277eb521f" name="Changes" comment="create new directory">
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/manifest.php" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/modCategory/bf356cc82470666d841cbde34627ba58.vehicle" beforeDir="false" afterPath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58.vehicle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/plugins/keepOrderData.php" beforeDir="false" afterPath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/plugins/keepOrderData.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/snippets/snippet.hbepay.php" beforeDir="false" afterPath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/snippets/snippet.hbepay.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/hbepay.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/hbepay.inc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epaymodx-1.0-beta1/modNamespace/ad543c3135b235a7666c4046ed18c1a4.vehicle" beforeDir="false" afterPath="$PROJECT_DIR$/modNamespace/ad543c3135b235a7666c4046ed18c1a4.vehicle" afterDir="false" />
+    <list default="true" id="cd84bb73-ec4a-4819-b119-379277eb521f" name="Changes" comment="Open the directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/manifest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58.vehicle" beforeDir="false" afterPath="$PROJECT_DIR$/src/modCategory/bf356cc82470666d841cbde34627ba58.vehicle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/plugins/keepOrderData.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/plugins/keepOrderData.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/snippets/snippet.hbepay.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/elements/snippets/snippet.hbepay.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/hbepay.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/modCategory/bf356cc82470666d841cbde34627ba58/0/payment/hbepay.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modNamespace/ad543c3135b235a7666c4046ed18c1a4.vehicle" beforeDir="false" afterPath="$PROJECT_DIR$/src/modNamespace/ad543c3135b235a7666c4046ed18c1a4.vehicle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/epaymodx-1.0-beta1" />
     </key>
@@ -57,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738562169332</updated>
       <workItem from="1738562171050" duration="1707000" />
-      <workItem from="1738576222234" duration="596000" />
+      <workItem from="1738576222234" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="for download zip">
       <created>1738562510225</created>
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738576379397</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Open the directory">
+      <created>1738578522268</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738578522268</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +113,7 @@
     <MESSAGE value="for download zip" />
     <MESSAGE value="keep only zip files" />
     <MESSAGE value="create new directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new directory" />
+    <MESSAGE value="Open the directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Open the directory" />
   </component>
 </project>
